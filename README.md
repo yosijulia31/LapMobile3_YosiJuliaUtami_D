@@ -88,3 +88,10 @@ Halaman pengaturan yang menyediakan opsi untuk mengubah tema aplikasi (Light Mod
 Halaman logout yang menampilkan konfirmasi kepada pengguna sebelum melakukan logout.
 
 Tampilan Screenshot App:
+1. Tampilan login : ![Alt Text](https://github.com/yosijulia31/LapMobile3_YosiJuliaUtami_D/blob/main/screenshoot/Screenshot%20(101).png)
+2. Tampilan Dashboard : ![Alt Text](https://github.com/yosijulia31/LapMobile3_YosiJuliaUtami_D/blob/main/screenshoot/Screenshot%20(102).png)
+3. Tampilan Tambah Event: ![Alt Text](https://github.com/yosijulia31/LapMobile3_YosiJuliaUtami_D/blob/main/screenshoot/Screenshot%20(103).png)
+4. Tampilan Setting: ![Alt Text](https://github.com/yosijulia31/LapMobile3_YosiJuliaUtami_D/blob/main/screenshoot/Screenshot%20(104).png)
+5. Tampilan Event: ![Alt Text](https://github.com/yosijulia31/LapMobile3_YosiJuliaUtami_D/blob/main/screenshoot/Screenshot%20(105).png)
+6. Tampilan Logout: ![Alt Text](https://github.com/yosijulia31/LapMobile3_YosiJuliaUtami_D/blob/main/screenshoot/Screenshot%20(106).png)
+![Alt Text](https://github.com/yosijulia31/LapMobile3_YosiJuliaUtami_D/blob/main/screenshoot/Screenshot%20(107).png)
