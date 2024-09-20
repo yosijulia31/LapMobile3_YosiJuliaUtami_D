@@ -1,3 +1,6 @@
+Nama: Yosi Julia Utami
+NIM: H1D021022
+
 Event Planner
 -Fitur Utama : Login & Logout, Tambah acara dan simpan secara lokal dan Menu pengaturan untuk Dark Mode.
 
